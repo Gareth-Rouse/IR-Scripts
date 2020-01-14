@@ -1,0 +1,1 @@
+wget "https://github.com/davehull/Kansa/archive/master.zip" -O master.zip; Expand-Archive master.zip; cp .\master\Kansa-master\kansa.ps1 .\kansa.ps1

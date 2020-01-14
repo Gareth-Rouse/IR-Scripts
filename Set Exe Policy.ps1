@@ -1,0 +1,1 @@
+ls -r *.ps1 | Unblock-File; Set-ExecutionPolicy AllSigned; Set-ExecutionPolicy RemoteSigned; Set-ExecutionPolicy Unrestricted;
